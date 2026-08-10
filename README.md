@@ -1,6 +1,6 @@
 # Database ER Diagrams
 
-A collection of Entity-Relationship (ER) diagrams developed as academic database design work.
+A collection of Entity-Relationship (ER) diagrams developed as academic database design projects.
 
 ## Overview
 
@@ -42,9 +42,9 @@ It represents relationships involving patients, doctors, drugs, pharmacies, and 
 
 These ER diagrams were created to practice database modeling and understand how entities, attributes, and relationships can be represented visually.
 
-## Tools
+## Tools Used
 
-- ER Diagram
+- Entity-Relationship (ER) Diagrams
 - Database Design
 
 ## Learning Outcome
@@ -53,4 +53,4 @@ This work helped me practice identifying entities, attributes, and relationships
 
 ## Author
 
-**Muqaddas Zaheer**
+Muqaddas Zaheer Ahmad
